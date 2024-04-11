@@ -27,6 +27,13 @@ function getFreelancers ()
 
 
 
+// function to calculat
+
+
+
+
+
+
 
 
 
